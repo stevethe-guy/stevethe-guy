@@ -16,7 +16,7 @@ As a dedicated IT Administrator with over three years of experience, I specializ
 ##Project
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://my-deployment-e34bde.kb.us-central1.gcp.cloud.es.io/app/security/overview?sourcerer=(default:(id:security-solution-default,selectedPatterns:!(%27logs-*%27)))&timerange=(global:(linkTo:!(timeline),timerange:(from:%272024-11-03T22:00:00.000Z%27,fromStr:now%2Fd,kind:absolute,to:%272024-11-04T21:59:59.999Z%27,toStr:now%2Fd)),timeline:(linkTo:!(global),timerange:(from:%272024-11-03T22:00:00.000Z%27,fromStr:now%2Fd,kind:absolute,to:%272024-11-04T21:59:59.999Z%27,toStr:now%2Fd)))&timeline=(activeTab:query,graphEventId:%27%27,isOpen:!f)">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="(https://github.com/stevethe-guy/Network-Security-Assessment/blob/main/README.md)">Detection Lab</a>|
 
 # Skills
 
