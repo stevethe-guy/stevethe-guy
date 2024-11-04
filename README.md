@@ -16,7 +16,7 @@ As a dedicated IT Administrator with over three years of experience, I specializ
 ##Project
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="(https://github.com/stevethe-guy/Network-Security-Assessment/blob/main/README.md)">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/stevethe-guy/Network-Security-Assessment/blob/main/README.md">Detection Lab</a>|
 
 # Skills
 
